@@ -46,11 +46,11 @@ Project is: _in progress_ /
 ## Room for Improvement
 <!-- This project is a first collaboration project, we forsee there will be numerous area's of improvement and will expand on these areas more as we continue to learn -->
 
-Room for improvement:
+Areas to Improve on:
 -
 -
 
-To do:
+To do List:
 -
 -
 
