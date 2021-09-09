@@ -61,5 +61,5 @@ Give credit here.
 
 
 ## Contact
-Created by Andre(aromero18020), Benji(norvalbv), Mircea(zenandreas), and (roguesquad).
+Created by Andre(aromero18020), Benji(norvalbv), Mircea(zenandreas), and (Crocket77).
 
