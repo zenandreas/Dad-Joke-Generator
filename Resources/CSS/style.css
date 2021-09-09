@@ -1,0 +1,22 @@
+/*OVERALL*/
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+/* TITLE */
+.header{
+    text-align: center;
+}
+.p{
+    justify-content: flex-end;
+}
+
+/*CONTENT*/
+
+.submit{
+    text-align: center;
+}
+
+/* FOOTER */
