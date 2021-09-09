@@ -15,8 +15,15 @@ body{
 
 /*CONTENT*/
 
-.submit{
+.Submit{
+    margin-top: 2em;
     text-align: center;
 }
 
 /* FOOTER */
+.createdBy{
+    margin-top: 2em;
+    text-align: center;
+    font-style: italic;
+    color: #A6A6A6;
+}
