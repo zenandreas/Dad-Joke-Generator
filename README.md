@@ -32,8 +32,7 @@
 
 
 ## Screenshots
-![Dadjokegenerator Screenshot](https://user-images.githubusercontent.com/85530349/132898517-4f0a5d18-641a-4097-bcc3-94af7a280ba9.PNG)
-
+![Dadjokegenerator Screenshot](https://user-images.githubusercontent.com/85530349/132899078-5424a3f4-8538-4b0b-b9b2-df3240f000cb.PNG)
 
 
 ## Usage
