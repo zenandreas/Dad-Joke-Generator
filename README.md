@@ -1,6 +1,6 @@
 # Dad-Joke-Generator
 > CodeCademy Group Project to Demonstrate knowledge of intermediate javascript, we will be doing so with a dad joke generator. 
-> Live https://aromero18020.github.io/Dad-Joke-Generator/
+> Live http://www.thedadjokegenerator.com/
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -51,8 +51,8 @@ Areas to Improve on:
 -
 
 To do List:
--
--
+- add additional jokes to function
+- *IDEA* add additional button and function, New button would display as "Tell Me Another"?
 
 ## Acknowledgements
 Give credit here.
