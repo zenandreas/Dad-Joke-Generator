@@ -47,6 +47,12 @@ body{
     transition: all 300ms ease;
 }
 
+.tellMeAnother{
+    margin-top: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+
 
 /* FOOTER */
 .createdBy{
