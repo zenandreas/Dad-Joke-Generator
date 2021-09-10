@@ -1,6 +1,6 @@
 # Dad-Joke-Generator
 > CodeCademy Group Project to Demonstrate knowledge of intermediate javascript, we will be doing so with a dad joke generator. 
-> Live http://www.thedadjokegenerator.com/
+> Live https://aromero18020.github.io/Dad-Joke-Generator/
 
 ## Table of Contents
 * [General Info](#general-information)
