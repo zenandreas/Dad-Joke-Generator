@@ -51,8 +51,8 @@ Areas to Improve on:
 -
 
 To do List:
--
--
+- add additional jokes to function
+- *IDEA* add additional button and function, New button would display as "Tell Me Another"?
 
 ## Acknowledgements
 Give credit here.
