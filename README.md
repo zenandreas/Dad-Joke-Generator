@@ -32,7 +32,7 @@
 
 
 ## Screenshots
-<!-- screenshots to come -->
+![Dadjokegenerator Screenshot](https://user-images.githubusercontent.com/85530349/132899078-5424a3f4-8538-4b0b-b9b2-df3240f000cb.PNG)
 
 
 ## Usage
