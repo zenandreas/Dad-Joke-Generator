@@ -1,12 +1,12 @@
 /*OVERALL*/
 
-body{
+.body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:black;
 }
 
 /* TITLE */
-header{
+.header{
     text-align: center;
     color: white;
 }
@@ -83,7 +83,7 @@ header{
     left: 250px;
 }
 
-footer{
+.footer{
     margin-top: 2em;
     text-align: center;
     font-style: italic;
