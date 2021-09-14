@@ -6,30 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Dad Joke Generator</title>
     <link rel="stylesheet" type="text/css" href="Resources/CSS/style.css">
-    <script src="Resources/Javascrpt/script.js"></script>
 </head>
-    <body>
-        <!-- Title -->
-        <header>
-            <h1 id="title">The Dad Joke Generator</h1>
-            <img src="Resources/Images/Dad Joke Generator Logo.png" height="375px" width="425px">
-            <p id="mainText" >Want to tell the most cringe worthy, eye rolling, terrible jokes? Who better to ask than a Dad? Go ahead ask dad and be prepared for some of his shennanigans!</p>
-        </header>
+<!-- Title -->
+    <div class="header">
+    <h1>The Dad Joke Generator</h1>
+    <img src="Resources/Images/Dad Joke Generator Logo.png" height="350px" width="400px">
+    <p id="mainText" >Want to tell the most cringe worthy, eye rolling, terrible jokes? Who better to ask than a Dad? Go ahead ask dad and be prepared for some of his shennanigans!</p>
+    </div>
 
-<!-- Get a dad joke button -->
-        <main class="outputBox">
-            <div class="Submit">
-                <p id="jokeSection">I only know 25 letters of the alphabet. I don't know y.</p>
-                <button onclick="jokeDisplay.prevJoke()" id="prevJoke">Previous</button>
-                <button onclick="jokeDisplay.nextJoke()" id="nextJoke">Next</button>
-                <p id="jokeCount">Joke: 1 / 24</p>
-                <br>
-                <button onclick="jokeDisplay.randomJoke()" id="randomJoke">Tell me a random joke!</button>
-            </div>
-        </main>
+    <br>
+    <br>
 
+    <div class="content">
+
+    </div>
+    <!-- Get a dad joke button -->
+    <div class="outputBox">
+    <div class="Submit">
+        <button onclick="jokePicker()">Get A Dad Joke</button>
+        <p id="submit"></p>
+    </div>
+    </div>
+    <!-- Tell me another joke button-->
+    <div class="tellMeAnother">
+    <button onclick="">Tell Me Another!</button>
+    </div>
 <!-- created by section-->
-<<<<<<< HEAD
     <div class="createdBy">
         <p>
             Created by:
@@ -38,21 +40,6 @@
             <b>Benji</b>
         </p>
     </div>
-    
+    <script src="Resources/Javascrpt/script.js"></script>
 </body>
-=======
-        <footer>
-            <p>
-                Created by:
-                <b>Andre</b>
-                ,
-                <b>Benji</b>
-                ,
-                <b>Mircea</b>
-                and
-                <b>Ethan</b>
-            </p>
-        </footer>
-    </body>
->>>>>>> fdb4311cdad53cb7b558fa56a31760c8080b7079
 </html>
