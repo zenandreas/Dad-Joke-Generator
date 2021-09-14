@@ -1,5 +1,5 @@
 
-//comment out the alert once maitenance is complete
+//comment out the alert once maintenance is complete
 alert('Page Under Maintenance');
 
 const jokeDisplay = {
