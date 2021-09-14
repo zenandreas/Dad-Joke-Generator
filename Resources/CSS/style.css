@@ -1,6 +1,6 @@
 /*OVERALL*/
 
-.body{
+body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color:black;
 }
@@ -22,6 +22,11 @@
 
 .Submit{
     margin-top: 2em;
+    text-align: center;
+    font-weight: bold;
+}
+.tellMeAnother{
+margin-top: 2em;
     text-align: center;
     font-weight: bold;
 }
